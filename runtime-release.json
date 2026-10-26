@@ -1,0 +1,9 @@
+{
+  "version": "0.3.1",
+  "platform": "windows-x64",
+  "url": "https://browser.satloot.com/downloads/SATLOOT-Lite-0.3.1-windows-x64.zip",
+  "bytes": 531665795,
+  "sha256": "933a3f6459d1cacd22357f897816e9dcf65be842d335200f84b5f6d480d81305",
+  "chromiumVersion": "156.0.8078.48",
+  "runtimeManifestSha256": "8355c036a74691a14450c4cfc73c8379346ae3f5ac02ef4087a7def848c9e2c3"
+}

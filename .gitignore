@@ -1,0 +1,30 @@
+# Publication allowlist: runtime binaries, deployment scripts, local profiles,
+# private build evidence and archives must never enter this source repository.
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/LICENSE
+!/THIRD_PARTY.md
+!/SECURITY.md
+!/CONTRIBUTING.md
+!/runtime-release.json
+!/src/
+!/scripts/
+/scripts/*
+!/scripts/build.ps1
+!/scripts/test.ps1
+!/docs/
+/.vs/
+**/bin/
+**/obj/
+**/*.user
+**/*.suo
+**/*.dat
+**/*.slb
+**/*.exe
+**/*.dll
+**/*.zip
+**/*.pfx
+**/*.pem
+**/.env*
